@@ -1,5 +1,5 @@
 # nodejs-devradar-backend
-A API foi criada para rodar ao lado do front-end DevRadar em ReactJS e no mobile React Native.
+A API foi criada para rodar ao lado do front-end DevRadar em [ReactJS](https://github.com/juliobjj/reactjs-devradar-frontend) e no mobile React Native.
 
 Para isto basta:
 
