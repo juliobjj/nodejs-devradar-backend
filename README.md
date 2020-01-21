@@ -5,7 +5,9 @@ Esta api foi desenvolvida em Node.js com MongoDB. A mesma faz o cadastro do dese
 A aplicação tem como regra de negócio, encontrar desenvolvedores próximos com a tecnologia desejada. O sistema é dividido em 3 partes: API, Web e mobile. Para o funcionamento correto deve-se ter instalado os três módulos.
 
 API - Responsável por gerenciar os dados enviados pelo [front-end](https://github.com/juliobjj/reactjs-devradar-frontend).
+
 Web - Toda a parte visível ao usuário do sistema.
+
 Mobile - Filtra os desenvolvedores cadastrado na aplicação web.
 
 A API foi criada para rodar ao lado do front-end DevRadar em [ReactJS](https://github.com/juliobjj/reactjs-devradar-frontend) e no mobile [React Native](https://github.com/juliobjj/reactnative-devradar-mobile).
